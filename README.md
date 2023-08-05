@@ -1,7 +1,7 @@
 # personas
 Datasets for Deep learning Personas
 
-***TL;DR:*** These are the datasets that we've used in our fun AI side project experiment, over at <a href="https://personas.huggingface.co/https://huggingface.co/codephreakx">codephreak</a>
+***TL;DR:*** These are the datasets that we've used in our fun AI side project experiment, over at <a href="https://huggingface.co/codephreakx">codephreak</a>
 
 We've trained seq2seq models using [DeepQA](https://github.com/Conchylicultor/DeepQA), a tensorflow implementation of "A neural conversational model" (a.k.a. the Google paper), a Deep learning based chatbot.
 
